@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-inria-sans: "Inria Sans";
+
+  /* font sizes */
+  --font-size-11xl: 30px;
+  --font-size-41xl: 60px;
+  --font-size-16xl: 35px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-dodgerblue: #3199fe;
+  --color-gray: #808080;
+  --color-darkslateblue: #17194b;
+
+  /* Border radiuses */
+  --br-xl: 20px;
+}
