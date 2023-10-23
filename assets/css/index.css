@@ -374,6 +374,12 @@
 /* Style for the text inside the buttons */
 .btn {
   font-weight: bold;
+  height: 70px;
+  width: 100px;
 }
 
 /* Optionally, you can add more custom styles to your form elements */
+
+h1 , label{
+  color: black;
+}
